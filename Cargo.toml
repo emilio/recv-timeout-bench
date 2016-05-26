@@ -1,0 +1,6 @@
+[package]
+name = "recv-timeout-bench"
+version = "0.1.0"
+authors = ["Emilio Cobos Álvarez <me@emiliocobos.me>"]
+
+[dependencies]
